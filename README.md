@@ -1,9 +1,9 @@
-#Laravel Docker
+# Laravel Docker
 Docker para laravel con phpmyadmin
-###Requisitos
+### Requisitos
 * Docker
 * Docker compose
-###Pasos
+### Pasos
 1. Crear carpeta `src`
 2. `cd src`
 3. agregar todos los archivos de tu aplicacion laravel
@@ -16,6 +16,6 @@ App
 
 Phpmyadmin
 * http://localhost:8000/
-###Comandos
+### Comandos
 * `docker-compose run --rm composer update`
 * `docker-compose run --rm artisan migrate`
