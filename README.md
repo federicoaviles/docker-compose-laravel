@@ -1,5 +1,5 @@
-# Laravel Docker
-Docker para laravel con phpmyadmin
+# Docker Compose Laravel
+Docker compose para laravel con phpmyadmin
 ### Requisitos
 * Docker
 * Docker compose
